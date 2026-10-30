@@ -5,4 +5,4 @@ Aarya Jadhav
 Project 2
 
 # Tech Stack 
-HTML, CSS, JS
+HTML, CSS, JS, AIML
